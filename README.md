@@ -1,2 +1,2 @@
 # LearningPython
-These are some my Python example
+These are some my Python examples
